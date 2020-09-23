@@ -1,0 +1,4 @@
+VBGROUP 5.0
+Project=MDIActiveX.vbp
+StartupProject=..\..\CreateWindow\Control Quellencode\Demo\MDIActiveXDemo.vbp
+Project=..\..\CreateWindow\Control Quellencode\Demo\TesteMDIActiveX.vbp
